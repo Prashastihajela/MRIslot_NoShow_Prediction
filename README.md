@@ -55,6 +55,6 @@ Predictive insights can help clinic/hospitals:
 
 ## Contact Information
 For questions, suggestions, or collaboration:
-Author: Prashasti Hajela
-Email: prashastihajela95@gmail.com
-LinkedIn: https://www.linkedin.com/in/prashasti-h-73bb4b137/
+- Author: Prashasti Hajela
+- Email: prashastihajela95@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prashasti-h-73bb4b137/
