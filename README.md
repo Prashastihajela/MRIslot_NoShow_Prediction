@@ -49,9 +49,9 @@ Predictive insights can help clinic/hospitals:
 - Add real-time prediction dashboard in Power BI
 
 ## Credits and Acknowledgments
-Original dataset by Joni Arroba on Kaggle **(https://www.kaggle.com/datasets/joniarroba/noshowappointments)**
-Synthetic data creation, analysis, and modelling by **Prashasti Hajela**
-Tools used: Jupyter Notebook, Anaconda, Python, Pandas, NumPy,Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced-learn
+- Original dataset by Joni Arroba on Kaggle **(https://www.kaggle.com/datasets/joniarroba/noshowappointments)**
+- Synthetic data creation, analysis, and modelling by **Prashasti Hajela**
+- Tools used: Jupyter Notebook, Anaconda, Python, Pandas, NumPy,Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced-learn
 
 ## Contact Information
 For questions, suggestions, or collaboration:
