@@ -48,8 +48,9 @@ Confusion matrices and performance plots available in the `/images` folder.
 
 ![Confusion Matrix](Images/XGBoost_Smote_CM.png)
 
-*Confusion Matrix from XGBoost model*
-
+<p align="center">
+  <b>Confusion Matrix from XGBoost Model</b>
+</p>
 
 ## Business Impact
 Predictive insights can help clinic/hospitals:
