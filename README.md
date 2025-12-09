@@ -46,6 +46,11 @@ Confusion matrices and performance plots available in the `/images` folder.
 | Random Forest       | 0.74   | 0.28      | 0.41 | 
 | XGBoost (final)     | 0.87   | 0.30      | 0.44 | 
 
+![Confusion Matrix](Images/XGBoost_Smote_CM.png)
+
+*Confusion Matrix from XGBoost model*
+
+
 ## Business Impact
 Predictive insights can help clinic/hospitals:
 - Identify high-risk patients
